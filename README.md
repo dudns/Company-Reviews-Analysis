@@ -16,6 +16,9 @@ to the total stars by correlation coefficient using Numpy.
 #### 3) Bigram and Wordcloud 
 We collected the most frequently used bigrams in reviews and drew wordcloud to visualize our results.
 
+#### 4) data 
+All the csv files analyzed in this project.
+
 ### References
 1. Crawling 
 https://github.com/zzsza/jobplanet-interview-crawling
