@@ -20,7 +20,5 @@ We collected the most frequently used bigrams in reviews and drew wordcloud to v
 All the csv files analyzed in this project.
 
 ### References
-1. Crawling 
-https://github.com/zzsza/jobplanet-interview-crawling
-2. Wordcloud Hue Function
-https://stackoverflow.com/questions/43043263/word-cloud-in-python-with-customised-colour
+1. [Crawling](https://github.com/zzsza/jobplanet-interview-crawling)
+2. [Wordcloud Hue Function](https://stackoverflow.com/questions/43043263/word-cloud-in-python-with-customised-colour)
